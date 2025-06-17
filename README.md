@@ -1,6 +1,6 @@
 # C++ Programming Notes
 
-#Week 1 Old & New Ideas
+# Week 1 Old & New Ideas
 
 ## 1. Modular Design in Applications
 
